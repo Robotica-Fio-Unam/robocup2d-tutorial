@@ -12,7 +12,7 @@
 
 This repository contains a series of tutorials on the RoboCup2D Soccer Simulation Tutorials. The tutorials cover several topics such as installation, soccer server and the libraries librcsc and agent2d.
 
-This tutorial is live here: https://herodrigues.me/robocup2d-tutorial
+This tutorial is live here: https://herodrigues.github.io/robocup2d-tutorial
 
 # Overview
 
